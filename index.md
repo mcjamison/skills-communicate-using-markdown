@@ -26,3 +26,8 @@ Some javascript:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# A task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
