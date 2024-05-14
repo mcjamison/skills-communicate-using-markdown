@@ -9,3 +9,6 @@ Like, editing from a pull request context did not seem to work.
 ## What went right
 
 I was able to find the editing capability in the branch. Will try pull request again.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
